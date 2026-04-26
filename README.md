@@ -119,17 +119,17 @@ The dataset is imbalanced — 73% no churn, 27% churn. A model that always predi
 
 ## EDA Charts
 
-![Churn EDA](churn_eda.png)
+![Churn EDA](img/churn_eda.png)
 
 ## Model Evaluation
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](img/confusion_matrix.png)
 
-![ROC Curve](roc_curve.png)
+![ROC Curve](img/roc_curve.png)
 
 ## Feature Importance
 
-![Feature Importance](feature_importance.png)
+![Feature Importance](img/feature_importance.png)
 
 ## Future Improvements
 
