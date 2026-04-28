@@ -4,7 +4,7 @@ An end-to-end machine learning project that predicts whether a telecom customer 
 
 ## Live Demo
 
-[Live App](https://your-streamlit-url.streamlit.app)
+[Live App](https://vansh-talwar-customerchurnprediction-app-zj0ew8.streamlit.app/)
 
 ## Problem Statement
 
